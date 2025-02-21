@@ -1,0 +1,26 @@
+main:
+
+  - title: "BlockPruner: Fine-grained Pruning for Large Language Models"
+    authors: <strong>Longguang Zhong</strong>, Fanqi Wan, Ruijun Chen, Xiaojun Quan*, Liangzhi Li (*Corresponding authors)
+    pdf: https://arxiv.org/pdf/2406.10594
+    code: https://github.com/MrGGLS/BlockPruner
+    image: ./assets/img/blockpruner.png
+    notes: Tech Report
+
+
+  - title: "FUSECHAT: Knowledge Fusion of Chat Models"
+    authors: Fanqi Wan, <strong>Longguang Zhong</strong>, Ziyi Yang, Ruijun Chen, Xiaojun Quan* (*Corresponding authors)
+    pdf: https://arxiv.org/pdf/2408.07990
+    code: https://github.com/fanqiwan/FuseLLM
+    image: ./assets/img/fusechat.png
+    notes: Tech Report
+
+  - title: "WEIGHTED-REWARD PREFERENCE OPTIMIZATION FOR IMPLICIT MODEL FUSION"
+    authors: Ziyi Yang, Fanqi Wan, <strong>Longguang Zhong</strong>, Tianyuan Shi, Xiaojun Quan* (*Corresponding authors)
+    conference_short: ICLR
+    conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    pdf: https://openreview.net/pdf?id=fq24pEb8SL
+    code: https://github.com/SLIT-AI/WRPO
+    bibtex: https://openreview.net/forum?id=fq24pEb8SL#
+    notes: Poster
+    image: ./assets/img/wrpo.png
