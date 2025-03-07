@@ -12,7 +12,7 @@ Hello, I'm Longguang Zhong, an M.S. student in Computer Technology at Sun Yat-se
 
 ## News
 
-**[Feb 2025]** 🔥🔥 [FuseChat-3.0](https://arxiv.org/pdf/2503.04222) is accepted to ICLR 2025 Workshop!
+**[Mar 2025]** 🔥🔥 [FuseChat-3.0](https://arxiv.org/pdf/2503.04222) is accepted to ICLR 2025 Workshop!
 
 **[Jan 2025]** 🔥🔥 We release [FuseO1-Preview](https://huggingface.co/collections/FuseAI/fuseo1-preview-678eb56093649b2688bc9977), an advanced fusion model that enhances System-II reasoning by integrating multiple O1-like models using [SCE](https://arxiv.org/abs/2408.07990) merging, excelling in mathematics, coding, and science.
 
