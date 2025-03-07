@@ -24,3 +24,13 @@ main:
     bibtex: https://openreview.net/forum?id=fq24pEb8SL#
     notes: Poster
     image: ./assets/img/wrpo.png
+
+  - title: "FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion"
+    authors: Ziyi Yang, Fanqi Wan, <strong>Longguang Zhong</strong>, Canbin Huang, Guosheng Liang, Xiaojun Quan* (*Corresponding authors)
+    conference_short: ICLR Workshop
+    conference: ICLR 2025 First Workshop on Open Science for Foundation Models <strong>(ICLR WorkShop)</strong>, 2025.
+    bibtex: https://openreview.net/forum?id=qJmY3NxQWe#
+    pdf: https://arxiv.org/pdf/2503.04222
+    code: https://github.com/fanqiwan/FuseAI/tree/main/FuseChat-3.0
+    notes: Poster
+    image: ./assets/img/fusechat3.png

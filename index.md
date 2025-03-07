@@ -12,6 +12,8 @@ Hello, I'm Longguang Zhong, an M.S. student in Computer Technology at Sun Yat-se
 
 ## News
 
+**[Feb 2025]** 🔥🔥 [FuseChat-3.0](https://arxiv.org/pdf/2503.04222) is accepted to ICLR 2025 Workshop!
+
 **[Jan 2025]** 🔥🔥 We release [FuseO1-Preview](https://huggingface.co/collections/FuseAI/fuseo1-preview-678eb56093649b2688bc9977), an advanced fusion model that enhances System-II reasoning by integrating multiple O1-like models using [SCE](https://arxiv.org/abs/2408.07990) merging, excelling in mathematics, coding, and science.
 
 **[Dec 2024]** 🔥 We release [FuseChat-3.0](https://huggingface.co/collections/FuseAI/fusechat-30-6752d18dec430bad7a236a75) and [Blog Post](https://slit-ai.github.io/FuseChat-3.0/). FuseChat-3.0 contains a series of models crafted to enhance performance by integrating the strengths of multiple source LLMs into more compact target LLMs.
