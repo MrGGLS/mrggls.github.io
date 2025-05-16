@@ -2,11 +2,12 @@ main:
 
   - title: "BlockPruner: Fine-grained Pruning for Large Language Models"
     authors: <strong>Longguang Zhong</strong>, Fanqi Wan, Ruijun Chen, Xiaojun Quan*, Liangzhi Li (*Corresponding authors)
+    conference_short: ACL
+    conference: The 63rd Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2406.10594
     code: https://github.com/MrGGLS/BlockPruner
     image: ./assets/img/blockpruner.png
-    notes: Tech Report
-
+    notes: Findings
 
   - title: "FUSECHAT: Knowledge Fusion of Chat Models"
     authors: Fanqi Wan, <strong>Longguang Zhong</strong>, Ziyi Yang, Ruijun Chen, Xiaojun Quan* (*Corresponding authors)
