@@ -12,7 +12,12 @@ Hello, I'm Longguang Zhong, an M.S. student in Computer Technology at Sun Yat-se
 
 ## News
 
-**[May 2025]** 🔥🔥 *BlockPruner*, a fine-grained block pruning framework for large language models, is accepted to **ACL 2025 Findings**! Check out the paper [here](https://arxiv.org/pdf/2406.10594) and the code on [GitHub](https://github.com/MrGGLS/BlockPruner).
+**[August 2025]** 🔥🔥 *ThinkSwitcher*, our work on adaptive thinking strategies for language reasoning models, is accepted to **EMNLP 2025 Findings**! Check out the paper [here](https://arxiv.org/pdf/2505.14183).
+
+**[August 2025]** 🔥🔥 *FuseChat*, our work on knowledge fusion of chat models, is accepted to **EMNLP 2025 Main**! Check out the paper [here](https://arxiv.org/pdf/2408.07990) and the code on [GitHub](https://github.com/fanqiwan/FuseLLM).
+
+
+**[May 2025]** 🔥 *BlockPruner*, a fine-grained block pruning framework for large language models, is accepted to **ACL 2025 Findings**! Check out the paper [here](https://arxiv.org/pdf/2406.10594) and the code on [GitHub](https://github.com/MrGGLS/BlockPruner).
 
 
 **[Jan 2025]** 🔥 We release [FuseO1-Preview](https://huggingface.co/collections/FuseAI/fuseo1-preview-678eb56093649b2688bc9977), an advanced fusion model that enhances System-II reasoning by integrating multiple O1-like models using [SCE](https://arxiv.org/abs/2408.07990) merging, excelling in mathematics, coding, and science.
@@ -23,4 +28,4 @@ Hello, I'm Longguang Zhong, an M.S. student in Computer Technology at Sun Yat-se
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

@@ -11,10 +11,20 @@ main:
 
   - title: "FUSECHAT: Knowledge Fusion of Chat Models"
     authors: Fanqi Wan, <strong>Longguang Zhong</strong>, Ziyi Yang, Ruijun Chen, Xiaojun Quan* (*Corresponding authors)
+    conference_short: EMNLP
+    conference: The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2408.07990
     code: https://github.com/fanqiwan/FuseLLM
     image: ./assets/img/fusechat.png
-    notes: Tech Report
+    notes: Main
+
+  - title: "ThinkSwitcher: When to Think Hard, When to Think Fast"
+    authors: Guosheng Liang, <strong>Longguang Zhong</strong>, Ziyi Yang, Xiaojun Quan* (*Corresponding authors)
+    conference_short: EMNLP
+    conference: The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2505.14183
+    image: ./assets/img/thinkswitcher.png
+    notes: Findings
 
   - title: "WEIGHTED-REWARD PREFERENCE OPTIMIZATION FOR IMPLICIT MODEL FUSION"
     authors: Ziyi Yang, Fanqi Wan, <strong>Longguang Zhong</strong>, Tianyuan Shi, Xiaojun Quan* (*Corresponding authors)
