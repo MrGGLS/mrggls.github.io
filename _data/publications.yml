@@ -1,5 +1,45 @@
 main:
 
+  - title: "Kimi K2.5: Visual Agentic Intelligence"
+    authors: Kimi Team (including <strong>Longguang Zhong</strong>)
+    conference_short: Tech Report
+    conference: arXiv preprint arXiv:2602.02276, 2026.
+    pdf: https://arxiv.org/abs/2602.02276
+    image: ./assets/img/k25.png
+    notes: Tech Report
+
+  - title: "Kimi Linear: An Expressive, Efficient Attention Architecture"
+    authors: Kimi Team (including <strong>Longguang Zhong</strong>)
+    conference_short: Tech Report
+    conference: arXiv preprint arXiv:2510.26692, 2025.
+    pdf: https://arxiv.org/abs/2510.26692
+    image: ./assets/img/kimi-linear.png
+    notes: Tech Report
+
+  - title: "Kimi K2: Open Agentic Intelligence"
+    authors: Kimi Team (including <strong>Longguang Zhong</strong>)
+    conference_short: Tech Report
+    conference: arXiv preprint arXiv:2507.20534, 2025.
+    pdf: https://arxiv.org/abs/2507.20534
+    image: ./assets/img/k2.png
+    notes: Tech Report
+
+  - title: "FuseRL: Dense Preference Optimization for Heterogeneous Model Fusion"
+    authors: <strong>Longguang Zhong</strong>, Fanqi Wan, Ziyi Yang, Guosheng Liang, Tianyuan Shi, Xiaojun Quan* (*Corresponding authors)
+    conference_short: Tech Report
+    conference: arXiv preprint arXiv:2504.06562, 2025.
+    pdf: https://arxiv.org/abs/2504.06562
+    image: ./assets/img/fuserl.png
+    notes: Tech Report
+
+  - title: "Mutual-Taught for Co-adapting Policy and Reward Models"
+    authors: Tianyuan Shi, Canbin Huang, Fanqi Wan, <strong>Longguang Zhong</strong>, Ziyi Yang, Wei Shen, Xiaojun Quan*, Ming Yan (*Corresponding authors)
+    conference_short: ACL
+    conference: The 63rd Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2503.06873
+    image: ./assets/img/mutual-taught.png
+    notes: Main
+
   - title: "BlockPruner: Fine-grained Pruning for Large Language Models"
     authors: <strong>Longguang Zhong</strong>, Fanqi Wan, Ruijun Chen, Xiaojun Quan*, Liangzhi Li (*Corresponding authors)
     conference_short: ACL
