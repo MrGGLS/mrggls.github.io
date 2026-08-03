@@ -12,15 +12,17 @@ Hello, I'm Longguang Zhong, a Member of Technical Staff at [Moonshot AI](https:/
 
 ## News
 
-**[February 2026]** 🔥🔥 We release *Kimi K2.5*, an open-source visual agentic intelligence model. Check out the tech report [here](https://arxiv.org/abs/2602.02276).
+**[July 2026]** 🔥🔥 We release *Kimi K3*, the world's first open 3T-class model and the largest open-weight model to date — 2.8T parameters with 104B activated, native vision capabilities, and a 1M-token context window. Check out the tech report [here](https://arxiv.org/abs/2607.24653) and the open-weight model [here](https://huggingface.co/moonshotai/Kimi-K3).
 
-**[October 2025]** 🔥🔥 We release *Kimi Linear*, an expressive and efficient attention architecture. Check out the tech report [here](https://arxiv.org/abs/2510.26692).
+**[February 2026]** 🔥 We release *Kimi K2.5*, an open-source visual agentic intelligence model. Check out the tech report [here](https://arxiv.org/abs/2602.02276).
 
-**[July 2025]** 🔥🔥 We release *Kimi K2*, an open agentic intelligence model. Check out the tech report [here](https://arxiv.org/abs/2507.20534).
+**[October 2025]** 🔥 We release *Kimi Linear*, an expressive and efficient attention architecture. Check out the tech report [here](https://arxiv.org/abs/2510.26692).
 
-**[August 2025]** 🔥🔥 *ThinkSwitcher*, our work on adaptive thinking strategies for language reasoning models, is accepted to **EMNLP 2025 Findings**! Check out the paper [here](https://arxiv.org/pdf/2505.14183).
+**[July 2025]** 🔥 We release *Kimi K2*, an open agentic intelligence model. Check out the tech report [here](https://arxiv.org/abs/2507.20534).
 
-**[August 2025]** 🔥🔥 *FuseChat*, our work on knowledge fusion of chat models, is accepted to **EMNLP 2025 Main**! Check out the paper [here](https://arxiv.org/pdf/2408.07990) and the code on [GitHub](https://github.com/fanqiwan/FuseLLM).
+**[August 2025]** 🔥 *ThinkSwitcher*, our work on adaptive thinking strategies for language reasoning models, is accepted to **EMNLP 2025 Findings**! Check out the paper [here](https://arxiv.org/pdf/2505.14183).
+
+**[August 2025]** 🔥 *FuseChat*, our work on knowledge fusion of chat models, is accepted to **EMNLP 2025 Main**! Check out the paper [here](https://arxiv.org/pdf/2408.07990) and the code on [GitHub](https://github.com/fanqiwan/FuseLLM).
 
 
 **[May 2025]** 🔥 *BlockPruner*, a fine-grained block pruning framework for large language models, is accepted to **ACL 2025 Findings**! Check out the paper [here](https://arxiv.org/pdf/2406.10594) and the code on [GitHub](https://github.com/MrGGLS/BlockPruner).
